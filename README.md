@@ -1,7 +1,7 @@
 ![MasterHead](https://www.sanctionscanner.com/Content/Blog/07012022_111541122051In.jpg)
 <h1 align="center">Hi 👋, I'm Rifaldi</h1>
 <h3 align="center">A data enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifaldiachmad&label=Profile%20views&color=0e75b6&style=flat" alt="rifaldiachmad" /> </p>
 
